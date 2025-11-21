@@ -2,7 +2,7 @@
 
 A implementation of a (1+ε)-approximation algorithm for maximum matchings in general graphs within a semi-streaming setting using O(1/ε^6) passes of the edge stream, based on https://arxiv.org/abs/2412.19057v2.
 
-This code was developed as part of my undergraduate dissertation, where I evaluated the performance of the algorithm and the optimisations made to it on various real-life and synthetically (including adversarially) generated graphs.
+This code was developed as part of my undergraduate dissertation, where I evaluated the performance of the algorithm and the optimisations made to it on various real-life and synthetically (including adversarially) generated graphs. The full report can be seen viewed [here](https://github.com/phil-daniel/mmss-maximum-matchings/blob/main/mmss-dissertation.pdf).
 
 ## Usage Instructions
 
